@@ -698,7 +698,7 @@ ul.top-info li p.info-text {
 }
 
 .header-one .logo-area {
-  padding: 30px 0;
+  padding: 15px 0;
 }
 
 .navbar-fixed {
@@ -1240,7 +1240,7 @@ ul.navbar-nav > li.header-get-a-quote:hover > a:after {
 ================================================== */
 /*-- Main slide --*/
 .banner-carousel .banner-carousel-item {
-  height: 700px;
+  height: 500px;
   color: #fff;
   background-position: 50% 50%;
   background-size: cover;
@@ -1296,7 +1296,7 @@ ul.navbar-nav > li.header-get-a-quote:hover > a:after {
 
 .slide-sub-title {
   font-style: normal;
-  font-size: 60px;
+  font-size: 40px;
   line-height: 58px;
   margin: 20px 0;
   color: #fff;
@@ -2379,13 +2379,14 @@ img.testimonial-thumb {
 
 .subscribe-call-to-acton h4 {
   color: #fff;
-  font-size: 24px;
+  font-size: 15px;
   margin: 0;
+  line-height: 20px;
 }
 
 @media (max-width: 991px) {
   .subscribe-call-to-acton h4 {
-    font-size: 20px;
+    font-size: 15px;
   }
 }
 
